@@ -5,7 +5,9 @@ uses pyownet and gspread
 dependant on oauth2client
 
 *https://pypi.python.org/pypi/pyownet
+
 *https://gspread.readthedocs.io/en/latest/
+
 *https://pypi.python.org/pypi/oauth2client
 
 
